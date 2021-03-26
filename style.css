@@ -1,0 +1,29 @@
+body{
+
+    background-color: cadetblue;
+    background-image: url(oragami.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+.grid {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.icon{
+    position: relative; 
+}
+
+.icon img {
+
+    padding: 40px;
+}
+
+h2,p {
+
+    text-align: center;
+}
